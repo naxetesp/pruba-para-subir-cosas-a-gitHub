@@ -1,0 +1,5 @@
+ El volumen de la unidad C es OSDisk
+ El n£mero de serie del volumen es: 9E87-3B88
+
+ Directorio de C:\Users\imartipa\Documents\Angular\Practicas angular\pruebaGit\prueba-para-subir-cosas-a-gitHub
+
